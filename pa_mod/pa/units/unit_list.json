@@ -206,6 +206,6 @@
         "/pa/units/land/radar_jammer/radar_jammer.json",
         "/pa/units/land/tank_jammer/tank_jammer.json",
         "/pa/units/orbital/orbital_mine/orbital_mine.json",
-        "/pa/units/land/tank_anti_nuke/tank_anti_nuke.json",
+        "/pa/units/land/tank_anti_nuke/tank_anti_nuke.json"
     ]
 }
