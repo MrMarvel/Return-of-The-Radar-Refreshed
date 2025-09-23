@@ -6,7 +6,8 @@
     "signature": "not yet implemented",
     "forum": "",
     "priority": 100,
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/MrMarvel/Return-of-The-Radar-Refreshed/refs/heads/main/mod_icon.png",
+	"github": "https://github.com/MrMarvel/Return-of-The-Radar-Refreshed",
     "titansOnly": true,
     "scenes": {
         "shared_build": [
