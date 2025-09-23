@@ -50,15 +50,12 @@
             "to_build": "DeepSpaceRadar",
             "instance_count": 1,
             "shared_instance_count": "DeepSpaceRadar",
-            "priority": 486,
+            "priority": 1500,
             "builders": [
                 "AnyBasicFabber"
             ],
             "build_conditions": [
                 [
-                    {
-                        "test_type": "CanAffordBuildDemand"
-                    },
                     {
                         "test_type": "UnitCount",
                         "unit_type_string0": "Structure & Recon & Orbital",
@@ -92,15 +89,12 @@
             "to_build": "DeepSpaceRadar",
             "instance_count": 1,
             "shared_instance_count": "DeepSpaceRadar",
-            "priority": 266,
+            "priority": 1600,
             "builders": [
                 "AnyBasicFabber"
             ],
             "build_conditions": [
                 [
-                    {
-                        "test_type": "CanAffordBuildDemand"
-                    },
                     {
                         "test_type": "UnitCount",
                         "unit_type_string0": "Structure & Recon & Orbital",
