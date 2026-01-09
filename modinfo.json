@@ -4,10 +4,10 @@
     "description": "Forked and fixed version of original mod. The Orbital and Deepspace Radar from classic PA returns! All orbital units are now hidden unless the Deepspace Radar is constructed and powered. Works with base game AI. Does not affect Galactic War. Now compatible with most other mods!",
     "author": "MrMarvel",
     "signature": "not yet implemented",
-    "forum": "",
+    "forum": "https://github.com/MrMarvel/Return-of-The-Radar-Refreshed/discussions",
     "priority": 100,
     "icon": "https://raw.githubusercontent.com/MrMarvel/Return-of-The-Radar-Refreshed/refs/heads/main/mod_icon.png",
-	"github": "https://github.com/MrMarvel/Return-of-The-Radar-Refreshed",
+	"github": "https://github.com/MrMarvel/Return-of-The-Radar-Refreshed/tree/prod/pa_mod_only",
     "titansOnly": true,
     "scenes": {
         "shared_build": [
